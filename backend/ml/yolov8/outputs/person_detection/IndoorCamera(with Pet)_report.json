@@ -1,0 +1,1787 @@
+{
+  "detection_type": "person_only",
+  "source_video": "c:\\Users\\koknginhao\\rabbitmomoProject\\ho-mee\\frontend\\src\\public\\IndoorCamera(with Pet).mp4",
+  "source_video_reported_fps": 30.0,
+  "source_video_frame_count": 347,
+  "source_video_duration_seconds": 11.533333333333333,
+  "source_video_average_fps": 30.08670520231214,
+  "output_video_codec": "h264",
+  "output_video_fps": 30,
+  "analysis_started_unix": 1777803382.125427,
+  "analysis_finished_unix": 1777803428.0299149,
+  "analysis_duration_seconds": 45.904,
+  "total_frames_processed": 347,
+  "total_detections": 2,
+  "total_people_detected": 2,
+  "human_presence": false,
+  "class_summary": [
+    {
+      "class": "person",
+      "count": 2,
+      "avg_confidence": 0.596795
+    }
+  ],
+  "frame_reports": [
+    {
+      "frame_id": 1,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 2,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 3,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 4,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 5,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 6,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 7,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 8,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 9,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 10,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 11,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 12,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 13,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 14,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 15,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 16,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 17,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 18,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 19,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 20,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 21,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 22,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 23,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 24,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 25,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 26,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 27,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 28,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 29,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 30,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 31,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 32,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 33,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 34,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 35,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 36,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 37,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 38,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 39,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 40,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 41,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 42,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 43,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 44,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 45,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 46,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 47,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 48,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 49,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 50,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 51,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 52,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 53,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 54,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 55,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 56,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 57,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 58,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 59,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 60,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 61,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 62,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 63,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 64,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 65,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 66,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 67,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 68,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 69,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 70,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 71,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 72,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 73,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 74,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 75,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 76,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 77,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 78,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 79,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 80,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 81,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 82,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 83,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 84,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 85,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 86,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 87,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 88,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 89,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 90,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 91,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 92,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 93,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 94,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 95,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 96,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 97,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 98,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 99,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 100,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 101,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 102,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 103,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 104,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 105,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 106,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 107,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 108,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 109,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 110,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 111,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 112,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 113,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 114,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 115,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 116,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 117,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 118,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 119,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 120,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 121,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 122,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 123,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 124,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 125,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 126,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 127,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 128,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 129,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 130,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 131,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 132,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 133,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 134,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 135,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 136,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 137,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 138,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 139,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 140,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 141,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 142,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 143,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 144,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 145,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 146,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 147,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 148,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 149,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 150,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 151,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 152,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 153,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 154,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 155,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 156,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 157,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 158,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 159,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 160,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 161,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 162,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 163,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 164,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 165,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 166,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 167,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 168,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 169,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 170,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 171,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 172,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 173,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 174,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 175,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 176,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 177,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 178,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 179,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 180,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 181,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 182,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 183,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 184,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 185,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 186,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 187,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 188,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 189,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 190,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 191,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 192,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 193,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 194,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 195,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 196,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 197,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 198,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 199,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 200,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 201,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 202,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 203,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 204,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 205,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 206,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 207,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 208,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 209,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 210,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 211,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 212,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 213,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 214,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 215,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 216,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 217,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 218,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 219,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 220,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 221,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 222,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 223,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 224,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 225,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 226,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 227,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 228,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 229,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 230,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 231,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 232,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 233,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 234,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 235,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 236,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 237,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 238,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 239,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 240,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 241,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 242,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 243,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 244,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 245,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 246,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 247,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 248,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 249,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 250,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 251,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 252,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 253,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 254,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 255,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 256,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 257,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 258,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 259,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 260,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 261,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 262,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 263,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 264,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 265,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 266,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 267,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 268,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 269,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 270,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 271,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 272,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 273,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 274,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 275,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 276,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 277,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 278,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 279,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 280,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 281,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 282,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 283,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 284,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 285,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 286,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 287,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 288,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 289,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 290,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 291,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 292,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 293,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 294,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 295,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 296,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 297,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 298,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 299,
+      "people_count": 1,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 0.607932,
+          "x1": 0,
+          "y1": 271,
+          "x2": 100,
+          "y2": 714,
+          "width": 100,
+          "height": 443
+        }
+      ]
+    },
+    {
+      "frame_id": 300,
+      "people_count": 1,
+      "detections": [
+        {
+          "class": "person",
+          "confidence": 0.585659,
+          "x1": 0,
+          "y1": 271,
+          "x2": 100,
+          "y2": 714,
+          "width": 100,
+          "height": 443
+        }
+      ]
+    },
+    {
+      "frame_id": 301,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 302,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 303,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 304,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 305,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 306,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 307,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 308,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 309,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 310,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 311,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 312,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 313,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 314,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 315,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 316,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 317,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 318,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 319,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 320,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 321,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 322,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 323,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 324,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 325,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 326,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 327,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 328,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 329,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 330,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 331,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 332,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 333,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 334,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 335,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 336,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 337,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 338,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 339,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 340,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 341,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 342,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 343,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 344,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 345,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 346,
+      "people_count": 0,
+      "detections": []
+    },
+    {
+      "frame_id": 347,
+      "people_count": 0,
+      "detections": []
+    }
+  ],
+  "saved_video_path": "ml\\yolov8\\outputs\\person_detection\\IndoorCamera(with Pet)_detected.mp4",
+  "model_used": "yolov8n.pt",
+  "confidence_threshold": 0.5,
+  "iou_threshold": 0.45
+}
